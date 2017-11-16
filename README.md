@@ -1,4 +1,4 @@
-# Shipt Github Followers App #
+# Github Followers App #
 
 [https://chandrikabolla.bitbucket.io/githubFollowers/](https://chandrikabolla.bitbucket.io/githubFollowers/)
 
