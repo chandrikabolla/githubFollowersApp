@@ -1,7 +1,7 @@
 # Github Followers App #
 
 
-![](images/github-icon.svg =200x200)
+<img src="./images/github-icon.svg" width="200px" height="200px"/>
 [Demo](https://chandrikabolla.github.io/githubFollowers/)
 ## Here is how to run ##
 ---
