@@ -1,7 +1,7 @@
 # Github Followers App #
 
 
-![](images/octocat.png)
+![](images/Octocat.png)
 [Demo](https://chandrikabolla.github.io/githubFollowers/)
 ## Here is how to run ##
 ---
