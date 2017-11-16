@@ -1,7 +1,7 @@
 # Github Followers App #
 
 
-<img src="./images/github-icon.svg" width="200px" height="200px"/>
+<img src="./images/Octocat.png" width="200px" height="200px"/>
 [Demo](https://chandrikabolla.github.io/githubFollowers/)
 ## Here is how to run ##
 ---
