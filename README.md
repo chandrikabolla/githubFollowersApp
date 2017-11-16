@@ -3,7 +3,7 @@
 
 <img src="./images/Octocat.png" width="250" height="200" >
 
-* [](https://chandrikabolla.github.io/githubFollowers/)
+* [Demo](https://chandrikabolla.github.io/githubFollowers/)
 ---
 ## Here is how to run ##
 ---
