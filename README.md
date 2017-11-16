@@ -1,7 +1,7 @@
 # Github Followers App #
 
 
-![](images/Octocat.png)
+![](images/github-icon.svg)
 [Demo](https://chandrikabolla.github.io/githubFollowers/)
 ## Here is how to run ##
 ---
@@ -32,7 +32,6 @@ JavaScript - jQuery, AJAX (consumption of github api services)
 ![](images/architectureDiagram.png)
 ### Prioritizing Requirements ###
 ---
-* add shipt logo
 * add github logo
 * search bar
 * user - avatar, handle, number of followers
