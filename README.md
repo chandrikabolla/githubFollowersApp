@@ -14,7 +14,7 @@ start index.html
 ```
 ### Preface ###
 ---
-I might have chosen react/node for this project. But I sticked to jQuery,AJAX because I have more experience in the later than the former. And I wanted to concentrate much on UI and UX.
+I might have chosen react/node for this project. But I sticked to jQuery,AJAX because I have more experience in the latter than the former. And I wanted to concentrate much on UI and UX.
 ### Problem ###
 ---
 Create a service that allows a user to search for a github user and his followers.
